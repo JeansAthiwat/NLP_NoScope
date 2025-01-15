@@ -1,0 +1,12 @@
+# Ignore specific compressed files
+*.tar.gz
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bz2
+*.xz
+
+# Ignore the folder and everything inside it
+codes/L01_Intro&Tokenization/corpora/

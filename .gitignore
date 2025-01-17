@@ -10,3 +10,4 @@
 
 # Ignore the folder and everything inside it
 codes/L01_Intro&Tokenization/corpora/
+codes/L01_Intro&Tokenization/wandb

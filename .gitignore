@@ -15,6 +15,7 @@
 # Ignore the folder and everything inside it
 codes/L01_Intro&Tokenization/corpora/
 codes/L01_Intro&Tokenization/wandb
+codes/**/wandb
 
 # HW3 ignore    
 **/L03_Attention_TF_Architectures/wandb
@@ -24,3 +25,5 @@ codes/L01_Intro&Tokenization/wandb
 
 #HW6 ignore
 codes/L06_Sequence_Classification/clean-phone-data-for-students.csv
+codes/L06_Sequence_Classification/TRUEvoice_objective_wangchanberta_uncaesd
+codes/L06_Sequence_Classification/TRUEvoice_objective_wangchanberta_uncaesd_5epoch
